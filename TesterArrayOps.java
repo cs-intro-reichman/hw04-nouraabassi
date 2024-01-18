@@ -4,6 +4,7 @@ public class TesterArrayOps {
         if (args.length != 2) {
             System.out.println("Usage: java TesterArrayOps <function_name> <input_number>");
             return;
+            
         }
 
         String functionName = args[0];
